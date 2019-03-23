@@ -13,7 +13,7 @@ Deployed application
 * python3.6 manage.py runserver
 
 Clone Repository
-https://github.com/Geerocktricks/Hey-Neighbour.git
+https://github.com/Geerocktricks/Hey-Neighbourhood.git
 # User Stories
 * Sign in with the application to start using.
 * Set up a profile about me and a general location and my neighborhood name.
